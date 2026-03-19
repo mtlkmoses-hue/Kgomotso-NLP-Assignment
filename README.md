@@ -32,4 +32,4 @@ pip install pandas nltk scikit-learn matplotlib seaborn
 Open Sentiment_Analysis_Code.ipynb in Jupyter Notebook or Google Colab and run all cells sequentially.
 
 Test New Reviews:
-Use the predict_sentiment("Your text here") function at the end of the notebook to test the model on custom sentences.
+Use the predict_sentiment function at the end of the notebook to test the model on custom sentences.
